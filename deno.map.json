@@ -1,6 +1,0 @@
-{
-    "imports":
-    {
-        "react": "https://esm.sh/preact@10.11.3/compat"
-    }
-}
